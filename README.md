@@ -2,6 +2,8 @@
 
 This is the final project for the Deep Learning course @UniTN
 
+Press ![here](https://github.com/SimoneCaldarella/Person_ReID/blob/main/Report.pdf) to download the report.
+
 Our code is supposed to run on Google Colaboratory.
 
 In oreder to execute, it needs a folder containing the .zip dataset (or a pickle version of our Dataset object); this
