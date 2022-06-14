@@ -2,7 +2,7 @@
 
 This is the final project for the Deep Learning course @UniTN
 
-Press ![here](https://github.com/SimoneCaldarella/Person_ReID/blob/main/Report.pdf) to download the report.
+Press [here](https://github.com/SimoneCaldarella/Person_ReID/blob/main/Report.pdf) to download the report.
 
 Our code is supposed to run on Google Colaboratory.
 
