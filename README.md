@@ -1,3 +1,7 @@
+# Person Attribute Recognition (PAR) and Person Re-Identification (Person Re-ID)
+
+This is the final project for the Deep Learning course @UniTN
+
 Our code is supposed to run on Google Colaboratory.
 
 In oreder to execute, it needs a folder containing the .zip dataset (or a pickle version of our Dataset object); this
