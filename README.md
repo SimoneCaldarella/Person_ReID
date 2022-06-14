@@ -6,7 +6,7 @@ Press [here](https://github.com/SimoneCaldarella/Person_ReID/blob/main/Report.pd
 
 Our code is supposed to run on Google Colaboratory.
 
-In oreder to execute, it needs a folder containing the .zip dataset (or a pickle version of our Dataset object); this
+In order to execute, it needs a folder containing the .zip dataset (or a pickle version of our Dataset object); this
 can be modified in the first cell of the notebook using the global variable ORIGIN_DATASET_FOLDER.
 
 In case you want to execute it with our directory structure, please add on your GoogleDrive folder a shortcut to this shared folder:
